@@ -4,6 +4,14 @@ DMCoreDataUtils
 ### Utilities methods for Apple's Core Data Storage.
 
 
+#### **By Daniele Margutti**
+* **mail**: [me@danielemargutti.com](mail:me@danielemargutti.com)
+* **web**: [www.danielemargutti.com](http://www.danielemargutti.com)
+
+Licensed under [MIT License](http://opensource.org/licenses/MIT)
+
+A set of utilities for Core Data under iOS and OS X.
+
 Currently implements:
 
 ## Primary Key/Unique Objects supports for NSManagedObject
